@@ -1,0 +1,111 @@
+.colo{
+    box-shadow: rgb(239, 193, 95) 0px 5px 15px;
+}
+.s1{
+    margin-top: 100px;
+    width: 450px;
+}
+.s2{
+margin-top: 100px;
+}
+.gapp{
+    gap: 100px;
+}
+.c1{
+    color: rgb(253, 137, 13);
+    background-color: rgb(255, 234, 128);
+    border: none;
+    border-radius: 9px;
+    height: 40px;
+}
+.c2{
+    background: linear-gradient(180deg, rgba(255, 206, 103, 0.22) -42.47%, rgba(253, 237, 202, 0) 100%);
+
+}
+.c5{
+    margin-top: 63px;
+}
+.s4{
+    gap: 65px;
+    padding-left: 40px;
+}
+.s5{
+    background-color: rgb(255, 102, 13) !important; 
+    width: 130px !important;
+    
+}
+.s6{
+    cursor: pointer;
+}
+.s7{
+    margin-top: 50px;
+}
+.s8{
+    background-color: rgb(245, 192, 107);
+    margin-top:30px ;
+}
+.s9{
+    background-color: rgb(212, 237, 200);
+    margin-top:30px ;
+    outline: none;
+}
+.s10{
+    width: 120px;
+    text-align: center;
+   margin-left: 200px;
+    margin-top: 90px;
+}
+.s11{
+    width: 90px;
+    cursor: pointer;
+}
+.s12{
+    /* margin-left: 290px; */
+    margin-top: 90px;
+}
+.s13{
+    background-color: rgba(252, 243, 232, 0.942);
+    margin-top: 90px;
+    width: 100%;
+}
+.s14{
+    margin-top: 90px;
+}
+.s15{
+width: 100%;
+margin-bottom: 0;
+}
+.s16{
+width: 100%;
+}
+.s17{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.s18{
+    margin-top: 100px;
+    margin-left: 250px;
+}
+.s19{
+    background-image: url(./Images/ready.png) ;
+    width: 100%;
+}
+.s20{
+    background-color: rgb(255, 128, 32);
+}
+.s22{
+    background-color: rgb(255, 128, 32);
+
+}
+.s23{
+    gap: 30px;
+   
+}
+hr{
+    border-top: 3px solid gray;
+}
+.s25{
+    background-color: rgb(255, 128, 32);
+}
+.mobile-section{
+    background: #FEEFD0;
+}
